@@ -1,12 +1,13 @@
 # ArizonaSunshine2_protube
-
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/1540210/header.jpg">
 
 # Description
 
-This mod adds provolver support to the game.
+This mod adds provolver support to the game.</br></br>
 
-# This mod is compatible with the bHaptics mod
+☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
+
+### This mod is compatible with the bHaptics mod
 
 # Installation
 
