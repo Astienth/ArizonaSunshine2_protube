@@ -4,6 +4,9 @@ using HarmonyLib;
 using Il2CppVertigo.AZS2.Client;
 using Newtonsoft.Json;
 
+[assembly: MelonInfo(typeof(ArizonaSunshine2_protube.ArizonaSunshine2_protube), "ArizonaSunshine2_protube", "1.0.0", "Astien & Florian Fahrenberger")]
+[assembly: MelonGame("Vertigo Games", "ArizonaSunshine2")]
+
 namespace ArizonaSunshine2_protube
 {
     public class ArizonaSunshine2_protube : MelonMod
